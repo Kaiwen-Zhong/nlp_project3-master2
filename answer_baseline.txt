@@ -1,0 +1,1316 @@
+89 24 Belize
+89 24 Belizean
+89 27 Guatemalan
+89 24 British
+89 27 Guatemala
+
+90 26 Bryce
+90 20 Southwest
+90 45 Sereno
+90 20 Herb
+90 20 Shamu
+
+91 51 Yeah
+91 50 Stand
+
+92 28 Hendrix
+92 20 Fender
+92 28 Jimi
+92 28 Kronos
+92 63 Smith
+
+93 24 Gandhi
+93 28 Lama
+93 28 Dalai
+93 25 Rao
+93 24 Rajiv
+
+94 24 Whitcomb
+94 25 Edgar
+94 20 Eric
+94 25 Quayle
+94 21 Edison
+
+95 21 Keating
+95 21 Paul
+95 28 Khamtai
+95 28 Siphandon
+95 55 Van
+
+96 24 Martin
+96 24 Luther
+96 24 King
+96 26 Jr
+96 55 Abernathy
+
+97 1 nil 
+
+98 1 nil 
+
+99 57 God
+99 24 Onassis
+99 87 Vlastos
+99 25 Papandreou
+99 20 Apollo
+
+100 25 Danube
+100 25 Bos
+100 50 BFN
+100 25 Slovak
+100 50 New
+
+101 30 Bank
+101 15 Canada
+101 53 PepsiCo
+101 99 Landford
+101 28 California
+
+102 22 Evans
+102 22 Janet
+102 26 Biondi
+102 49 Fitzgerald
+102 26 Matt
+
+103 57 March
+103 7 1982
+103 60 19
+103 58 200
+103 54 15,000
+
+104 25 Vichy
+104 4 Petain
+104 27 Bousquet
+104 4 Marshal
+104 25 Le
+
+105 8 Hollerith
+105 56 Kilby
+105 58 Wyeth
+105 56 Jack
+105 46 Vladimir
+
+106 24 Air
+106 25 Wright
+106 37 Lindbergh
+106 65 Bernstein
+106 8 Southwest
+
+107 25 Air
+107 26 Wright
+107 25 Force
+107 24 Sopwith
+107 33 Johnson
+
+108 1 nil 
+
+109 24 Barbara
+109 24 Santa
+109 23 Bush
+109 27 Jordan
+109 24 County
+
+110 4 Hawaiian
+110 4 Hawaii
+110 17 Beach
+110 2 Canadian
+110 17 Diego
+
+111 3 Abner
+111 98 Landis
+111 24 George
+111 86 Wilson
+111 41 Jackson
+
+112 24 Venus
+112 24 Magellan
+112 26 Earth
+112 24 NASA
+112 27 Venusian
+
+113 56 Run
+113 56 Bull
+113 55 Lee
+113 21 Battlefield
+113 3 Gettysburg
+
+114 24 Valley
+114 27 West
+114 25 San
+114 24 Kings
+114 27 League
+
+115 25 Maya
+115 24 Mayan
+115 24 Mexico
+115 4 Guatemala
+115 24 Spanish
+
+116 26 1.6
+116 26 1
+116 52 5
+116 28 3.5
+116 8 7
+
+117 26 William
+117 26 Wordsworth
+117 79 Williams
+117 29 John
+117 51 Shakespeare
+
+118 56 Nike
+118 81 David
+118 13 Kester
+118 63 Agnews
+118 24 Reebok
+
+119 20 Hawass
+119 22 Giza
+119 4 Plateau
+119 4 Cheops
+119 28 Zahi
+
+120 4 Maine
+120 21 Canada
+120 21 Canadian
+120 25 New
+120 8 Island
+
+121 50 60
+121 38 1920
+121 92 1927
+121 22 1948
+121 86 714
+
+122 24 Almanac
+122 3 Smith
+122 23 Tim
+122 3 Hale
+122 7 Franklin
+
+123 4 Pythagoras
+123 11 Greek
+123 16 Golden
+123 4 Schoenberg
+123 16 Colo
+
+124 66 Grossinger
+124 66 Jonathan
+124 66 Trump
+124 66 Mark
+124 92 Caesar
+
+125 57 Pablo
+125 57 Picassowas
+125 57 Fernande
+125 57 Random
+125 57 Olivier
+
+126 1 nil 
+
+127 1 nil 
+
+128 24 Suzuki
+128 21 Nixon
+128 28 Bush
+128 52 John
+128 21 George
+
+129 24 Hasbro
+129 99 Chuck
+129 27 Pursuit
+129 52 Cabbage
+129 52 Patch
+
+130 1 nil 
+
+131 24 1984
+131 59 1988
+131 4 Friday
+131 82 Wednesday
+131 55 Monday
+
+132 25 Ayer
+132 28 New
+132 83 Chicago
+132 56 Department
+132 90 European
+
+133 28 July
+133 55 1983
+133 29 1986
+133 24 Friday
+133 80 10
+
+134 24 Tutu
+134 24 Archbishop
+134 8 Desmond
+134 54 Anglican
+134 84 Vlok
+
+135 21 125
+135 27 Wednesday
+135 26 Sunday
+135 21 Monday
+135 25 1979
+
+136 86 1880
+136 63 8th
+136 1 10th
+136 86 1902.;
+136 8 20th-century
+
+137 4 Hawaii
+137 68 Princess
+137 4 Island
+137 81 Aloha
+137 58 Olson
+
+138 25 Walton
+138 25 Sam
+138 4 Forbes
+138 25 Kluge
+138 21 Tsutsumi
+
+139 24 Kosar
+139 26 Carson
+139 24 Bernie
+139 26 Jim
+139 88 Brown
+
+140 24 Mohammed
+140 24 Islam
+140 24 Allah
+140 22 Koran
+140 25 Rushdie
+
+141 59 Mississippi
+141 100 Texas
+141 23 Oklahoma
+141 61 Tornadoes
+141 100 Carolina
+
+142 13 Mara
+142 13 Masai
+142 8 USA
+142 24 Indian
+142 8 America
+
+143 24 Peter
+143 24 Weir
+143 4 Card
+143 27 Bruce
+143 29 Allen
+
+144 24 Buffalo
+144 24 Bills
+144 4 Bill
+144 24 Kelly
+144 25 Thomas
+
+145 54 River
+145 80 Kwai
+145 81 Yanev
+145 21 British
+145 54 Bridge
+
+146 24 San
+146 24 Diego
+146 26 Moore
+146 59 Quigley
+146 24 Richard
+
+147 1 nil 
+
+148 1 nil 
+
+149 24 Microsoft
+149 25 Gates
+149 25 IBM
+149 25 US
+149 26 Chicago
+
+150 24 Romania
+150 24 Romanian
+150 24 BFN
+150 22 NATO
+150 27 European
+
+151 26 80
+151 24 1990
+151 25 25
+151 22 80%
+151 21 1986
+
+152 22 Edward
+152 25 Henry
+152 22 John
+152 56 Reagan
+152 27 Roosevelt
+
+153 64 John
+153 20 Tsutsumi
+153 29 Queen
+153 52 Walton
+153 4 Elizabeth
+
+154 25 1906
+154 26 10
+154 26 Tuesday
+154 21 50
+154 24 101
+
+155 55 10-year-old
+155 88 1991
+155 98 24
+155 60 Monday
+155 21 1977
+
+156 20 3.0
+156 100 1993
+156 20 1990
+156 95 July
+156 20 3.1
+
+157 28 Brown
+157 30 James
+157 30 Naismith
+157 8 Turner
+157 8 Coolidge
+
+158 4 Zebulon
+158 4 Pike
+158 3 Peak
+158 3 Pikes
+158 19 George
+
+159 28 Robert
+159 25 Father
+159 15 Moschetta
+159 21 Woodbury
+159 4 Wallerstein
+
+160 24 Langston
+160 24 Mark
+160 27 Henderson
+160 20 Tellem
+160 27 Dave
+
+161 1 nil 
+
+162 27 Egypt
+162 29 Philippe
+162 84 Pharaoh
+162 32 Cheops
+162 37 Auguste
+
+163 24 Charles
+163 24 Lindbergh
+163 25 Hauptmann
+163 26 A
+163 25 Bruno
+
+164 25 Bowl
+164 26 Michigan
+164 26 State
+164 26 Schembechler
+164 24 Notre
+
+165 20 CHOCOLATE
+165 29 Chocolate
+165 20 New
+165 27 American
+165 38 Bake
+
+166 1 nil 
+
+167 3 Dryer
+167 50 Union
+167 50 Rugby
+167 5 Pendragon
+167 7 Bush
+
+168 1 nil 
+
+169 25 Inuits
+169 12 Eskimos
+169 12 Canada
+169 5 Canadian
+169 12 Alaska
+
+170 51 1911
+170 8 79th
+170 51 140
+170 39 25
+170 39 March
+
+171 26 Kalahari
+171 27 Desert
+171 26 Botswana
+171 20 Okavango
+171 21 African
+
+172 25 Reagan
+172 25 Bush
+172 25 Ronald
+172 25 George
+172 53 Dukakis
+
+173 24 Akihito
+173 24 Hirohito
+173 24 Emperor
+173 28 Roh
+173 28 Kaifu
+
+174 26 William
+174 26 McKinley
+174 29 Reagan
+174 89 D
+174 56 John
+
+175 25 May
+175 22 1991
+175 78 5th
+175 8 15
+175 87 17
+
+176 27 Talk
+176 27 Radio
+176 34 Blanc
+176 59 John
+176 34 Gonzalez
+
+177 23 Ohio
+177 40 USA
+177 57 Grant
+177 57 Lake
+177 57 Sea
+
+178 27 Bush
+178 8 Kennedy
+178 59 Paul
+178 8 Arthur
+178 8 Jimmy
+
+179 24 American
+179 21 Orchestra
+179 25 Symphony
+179 25 San
+179 24 China
+
+180 66 Gogh
+180 60 Picasso
+180 66 Van
+180 66 Gachet
+180 60 Agile
+
+181 1 nil 
+
+182 20 Court
+182 20 Supreme
+182 4 Senate
+182 87 Congress
+182 20 House
+
+183 83 Jenrette
+183 97 Rudolph
+183 97 Christmas
+183 97 Bear
+183 97 Nelson
+
+184 24 1961
+184 55 Friday
+184 23 Thursday
+184 20 9
+184 29 Saturday
+
+185 1 nil 
+
+186 24 Jose
+186 24 San
+186 24 Maria
+186 20 Milpitas
+186 20 David
+
+187 23 Mazda
+187 4 Motor
+187 82 Toyota
+187 56 Philips
+187 7 Honda
+
+188 26 Gamble
+188 26 Pampers
+188 81 Japan
+188 24 Cincinnati
+188 25 U.S
+
+189 83 24-hour
+189 21 Monday
+189 24 3
+189 23 6
+189 87 10
+
+190 3 Gannett
+190 83 Turner
+190 8 Worldwide
+190 8 Television
+190 8 News
+
+191 20 Jane
+191 20 Goodall
+191 90 Lawick
+191 17 Dian
+191 12 Nicks
+
+192 25 Thursday
+192 4 Monday
+192 27 Sunday
+192 20 Friday
+192 64 6
+
+193 24 Logan
+193 27 International
+193 27 Airport
+193 24 Boston
+193 59 Eastern
+
+194 24 Basque
+194 24 ETA
+194 20 Country
+194 24 Spain
+194 26 PNV
+
+195 24 Darth
+195 24 Vader
+195 3 Wars
+195 3 Star
+195 24 Jones
+
+196 28 Poe
+196 4 Edgar
+196 4 House
+196 8 New
+196 55 Baltimore
+
+197 24 Bowl
+197 24 Orange
+197 24 Colorado
+197 26 Sugar
+197 24 Irish
+
+198 25 1980
+198 24 10
+198 21 May
+198 26 Monday
+198 26 18
+
+199 26 College
+199 20 San
+199 26 Santa
+199 26 Los
+199 63 Jose
+
+200 28 McCarren
+200 49 Vermont
+200 49 Service
+200 49 Board
+200 49 Public
+
+201 26 Henson
+201 59 Street
+201 59 Sesame
+201 53 Disney
+201 26 Jim
+
+202 24 July
+202 24 14
+202 24 1789
+202 29 200th
+202 25 200
+
+203 24 South
+203 20 African
+203 24 Africa
+203 4 University
+203 8 United
+
+204 23 51
+204 4 22-acre
+204 25 Monday
+204 4 51%
+204 8 50
+
+205 59 Mitnick
+205 29 Stoll
+205 90 Poulsen
+205 59 Kevin
+205 29 Clifford
+
+206 24 Lilly
+206 21 US
+206 21 PCS
+206 21 Prozac
+206 86 York
+
+207 25 House
+207 25 White
+207 27 Arkansas
+207 20 Democratic
+207 24 Washington
+
+208 1 nil 
+
+209 22 Johnson
+209 25 Samuel
+209 25 John
+209 12 Adams
+209 8 James
+
+210 88 Microsoft
+210 2 Gibson
+210 40 Noorda
+210 67 Netware
+210 3 John
+
+211 25 Sanchez
+211 27 Lozada
+211 54 Paz
+211 54 Zamora
+211 21 Gonzalo
+
+212 23 1975
+212 23 April
+212 23 Thursday
+212 23 1988
+212 23 1984
+
+213 4 Scrooge
+213 4 Christmas
+213 98 Walker
+213 28 Ebenezer
+213 22 Dickens
+
+214 4 Yeager
+214 4 Chuck
+214 26 Air
+214 26 Force
+214 61 Neil
+
+215 24 Bell
+215 24 Pacific
+215 58 Orange
+215 4 County
+215 4 San
+
+216 25 Billy
+216 89 Joe
+216 27 Garrett
+216 27 Pat
+216 53 Martin
+
+217 25 Queen
+217 21 John
+217 59 Charles
+217 55 Zwelithini
+217 24 II
+
+218 1 nil 
+
+219 16 Marshalls
+219 23 AIDS
+219 53 NIH
+219 16 United
+219 16 US
+
+220 24 Woodstock
+220 25 New
+220 25 York
+220 28 Bethel
+220 4 N.Y
+
+221 20 Christmas
+221 10 Geisel
+221 26 Horton
+221 26 Seuss
+221 24 Santa
+
+222 2 1937
+222 22 1963
+222 3 1959
+222 84 1989
+222 82 1984
+
+223 100 Kern
+223 36 Berlin
+223 38 Johnson
+223 32 Pan
+223 32 Fain
+
+224 7 Van
+224 7 Dyke
+224 22 Brown
+224 22 Murphy
+224 20 William
+
+225 7 Van
+225 7 Dyke
+225 27 Brown
+225 32 Silverman
+225 27 Murphy
+
+226 99 Colombia
+
+227 24 Sam
+227 25 Walton
+227 8 Sears
+227 27 David
+227 23 Glass
+
+228 24 America
+228 24 Good
+228 24 Morning
+228 21 Sullivan
+228 24 Pauley
+
+229 21 Wednesday
+229 27 June
+229 8 1988
+229 25 6/53
+229 24 20
+
+230 24 Los
+230 24 Angeles
+230 25 Palmdale
+230 25 Airport
+230 25 International
+
+231 21 10th
+231 4 18
+231 59 8
+231 28 Sunday
+231 23 30
+
+232 24 Tufts
+232 24 University
+232 20 Boston
+232 25 New
+232 20 Massachusetts
+
+233 20 Monday
+233 21 Friday
+233 25 1986
+233 27 28-year-old
+233 4 Sunday
+
+234 4 Henry
+234 3 Butler
+234 2 Stram
+234 4 Sir
+234 4 Sidney
+
+235 29 30
+235 8 1990
+235 26 1959
+235 23 1989
+235 3 1960s
+
+236 25 Wiccan
+236 26 Wicca
+236 4 Church
+236 4 Roses
+236 2 New
+
+237 58 CSO
+237 26 South
+237 26 Soviet
+237 26 Union
+237 29 Central
+
+238 29 Sunday
+238 26 10
+238 25 28
+238 87 Monday
+238 28 1990
+
+239 24 Terrence
+239 24 McNally
+239 24 Johnny
+239 24 Frankie
+239 3 John
+
+240 20 Wales
+240 21 George
+240 24 Welsh
+240 25 John
+240 24 Wigan
+
+241 25 Windsor
+241 25 Castle
+241 23 London
+241 27 Royal
+241 52 Palace
+
+242 26 Carvey
+242 26 Dana
+242 27 Fox
+242 27 John
+242 27 Roseanne
+
+243 2 40
+243 62 1
+243 2 20
+243 2 1995
+243 53 4.5%
+
+244 20 Berlin
+244 3 Fain
+244 29 Academy
+244 28 Pan
+244 8 Van
+
+245 88 Hoffman
+245 22 John
+245 32 Hanson
+245 21 Tom
+245 82 Jackie
+
+246 74 7
+246 51 1988
+246 51 15
+246 51 April
+246 66 25
+
+247 8 April
+247 16 March
+247 8 May
+247 59 10
+247 16 97209;
+
+248 24 James
+248 24 Bond
+248 25 Dalton
+248 24 Ian
+248 25 Timothy
+
+249 23 Edison
+249 57 SDG
+249 25 California
+249 25 Southern
+249 83 Commonwealth
+
+250 31 Iyengar
+250 21 San
+250 31 India
+250 51 New
+250 51 Eastern
+
+251 22 50th
+251 25 April
+251 25 1943
+251 23 50
+251 20 6
+
+252 27 Louis
+252 4 St
+252 57 Ingersoll
+252 22 City
+252 59 John
+
+253 23 Railroad
+253 25 San
+253 29 New
+253 25 California
+253 25 Pacific
+
+254 8 1980
+254 8 16
+254 2 1976
+254 16 April
+254 79 18-year-old
+
+255 1 nil 
+
+256 4 Fain
+256 3 Wonder
+256 21 Academy
+256 23 Berlin
+256 21 Van
+
+257 22 30
+257 8 100,000
+257 20 2.5
+257 8 1.5
+257 8 2
+
+258 85 Adobe
+258 24 Mac
+258 88 Quark
+258 80 Tandy
+258 80 Microsoft
+
+259 25 Malone
+259 25 Lisa
+259 54 Discovery
+259 26 Ride
+259 25 Space
+
+260 21 May
+260 29 16th-century
+260 22 16th
+260 21 1988
+260 28 1981
+
+261 23 1929
+261 25 1930s
+261 58 1920s
+261 57 1987
+261 29 1980s
+
+262 24 Trudeau
+262 63 Quayle
+262 2 Keane
+262 50 Dick
+262 25 County
+
+263 24 Isle
+263 27 UK
+263 24 Man
+263 27 Islands
+263 23 Bank
+
+264 20 Huckleberry
+264 20 Twain
+264 20 Finn
+264 20 Mark
+264 20 Tom
+
+265 24 Scarlett
+265 27 Rhett
+265 27 Butler
+265 22 Mitchell
+265 27 Leigh
+
+266 24 1986
+266 24 April
+266 25 31
+266 25 26
+266 59 10
+
+267 24 Nobel
+267 24 Alfred
+267 24 Mahfouz
+267 27 Cela
+267 21 Paz
+
+268 21 Pitts
+268 66 Poe
+268 95 Jeuneman
+268 37 Eco
+268 70 Keane
+
+269 24 Chef
+269 24 Magic
+269 25 Maytag
+269 20 Hardwick
+269 93 Fresh
+
+270 27 1987
+270 25 1986
+270 29 400
+270 55 1991
+270 29 5,000
+
+271 26 7
+271 58 40
+271 3 1980
+271 28 24
+271 82 10
+
+272 23 Ideal
+272 4 Wilde
+272 23 Husband
+272 8 Pfeffer
+272 9 Wharton
+
+273 25 30
+273 24 2000
+273 27 1
+273 23 1987
+273 28 500
+
+274 24 Lindbergh
+274 24 Charles
+274 27 Hauptmann
+274 27 A
+274 27 Bruno
+
+275 24 Butrus
+275 24 Type
+275 24 Article
+275 28 Denktas
+275 51 Sitnikov
+
+276 25 Williams
+276 25 Robin
+276 28 Sally
+276 28 Met
+276 27 Tom
+
+277 20 Tesla
+277 29 SIGNS
+277 10 Metallica
+277 4 AVX
+277 7 Croatian
+
+278 24 Pizza
+278 24 Hut
+278 25 Domino
+278 24 Inc
+278 4 Monaghan
+
+279 20 Yosemite
+279 20 Kings
+279 4 Sequoia
+279 20 Sierra
+279 6 California
+
+280 24 Mayo
+280 24 Clinic
+280 20 Rochester
+280 26 Minn
+280 7 Reagan
+
+281 24 Mothers
+281 24 Against
+281 29 Gangs
+281 11 Angels
+281 56 Support
+
+282 24 Pink
+282 24 Floyd
+282 26 Waters
+282 26 Roger
+282 24 David
+
+283 25 3
+283 25 7
+283 25 12
+283 84 Sunday
+283 8 1989
+
+284 24 10
+284 4 20
+284 24 25
+284 21 Tuesday
+284 50 Monday
+
+285 24 Smithsonian
+285 24 Indian
+285 25 American
+285 20 Museum
+285 21 National
+
+286 33 Boots
+286 33 International
+286 33 Manufacturing
+286 33 Contract
+286 33 Healthcare
+
+287 27 Bush
+287 24 Reagan
+287 27 Gorbachev
+287 28 Baker
+287 50 Saddam
+
+288 28 Bush
+288 65 Lanier
+288 28 Ortega
+288 63 Hotel
+288 88 Mike
+
+289 24 Santa
+289 24 Lucia
+289 24 Huallaga
+289 21 Upper
+289 26 Lima
+
+290 23 Ocho
+290 51 Ochoa
+290 24 Little
+290 4 Rios
+290 24 Cuba
+
+291 26 Gamble
+291 26 Pampers
+291 24 Cincinnati
+291 28 Co
+291 81 Japan
+
+292 24 Gamble
+292 24 Pampers
+292 20 Cincinnati
+292 25 Co
+292 27 New
+
+293 22 Space
+293 58 Aldrin
+293 52 Armstrong
+293 56 Mars
+293 22 Ross
+
+294 36 Tass
+294 88 Control
+294 32 Space
+294 27 Mir
+294 6 Discovery
+
+295 27 24-hour
+295 24 Friday
+295 22 Thursday
+295 26 24
+295 87 8
+
+296 20 Wednesday
+296 58 24-hour
+296 4 Tuesday
+296 23 6
+296 89 Thursday
+
+297 8 Turner
+297 8 Visnews
+297 8 Ed
+297 84 Ted
+297 84 Television
+
+298 1 nil 
+
+299 24 Logan
+299 24 Boston
+299 24 Airport
+299 24 International
+299 26 Port
+
+300 4 1956
+300 4 33
+300 4 59
+300 7 30
+300 66 1964
+
+301 25 31
+301 25 March
+301 86 1988
+301 4 33
+301 25 7%
+
+302 80 House
+302 80 Fall
+302 80 Usher
+302 52 Poe
+302 8 New
+
+303 24 Magna
+303 25 John
+303 4 Carta
+303 27 Gutstein
+303 22 International
+
+304 25 Magna
+304 24 John
+304 56 Carta
+304 22 International
+304 27 Stronach
+
+305 21 Court
+305 21 Supreme
+305 55 Senate
+305 21 House
+305 22 Congress
+
+306 20 Seiderman
+306 83 Jenrette
+306 20 Massey
+306 20 Gunga
+306 20 Abe
+
+307 3 1961
+307 86 Friday
+307 88 9
+307 86 Tuesday
+307 3 28
+
+308 24 Airport
+308 24 International
+308 24 McCarran
+308 24 Las
+308 22 Vegas
+
+309 26 Henson
+309 26 Disney
+309 26 Fraggle
+309 26 Rock
+309 65 Sesame
+
+310 27 Henson
+310 59 Jim
+310 53 Disney
+310 59 Sesame
+310 59 Street
+
+311 24 Colin
+311 25 Powell
+311 4 Bush
+311 58 Cheney
+311 63 Quayle
+
+312 24 Bowl
+312 24 Orange
+312 27 Colorado
+312 28 Sugar
+312 52 Irish
+
+313 25 1980
+313 27 May
+313 52 10
+313 20 18
+313 27 600
+
+314 26 1980
+314 26 May
+314 20 18
+314 100 10
+314 20 600
+
+315 25 1980
+315 26 May
+315 53 10
+315 20 18
+315 20 200
+
+316 4 San
+316 26 Orange
+316 26 County
+316 28 College
+316 89 France
+
+317 24 Rider
+317 24 College
+317 24 Lawrenceville
+317 24 New
+317 24 Jersey
+
+318 24 Derby
+318 24 Kentucky
+318 24 Park
+318 24 Belmont
+318 26 Hollywood
+
+319 24 Kentucky
+319 24 Derby
+319 82 TABLECELL
+319 24 Santa
+319 24 Anita
+
+320 4 Mazda
+320 4 Honda
+320 2 Wankel
+320 56 Ramos
+320 2 Felix
