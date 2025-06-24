@@ -1,0 +1,146 @@
+runfile('C:/Users/kz54/Downloads/Stemmer Tester.py', wdir='C:/Users/kz54/Downloads')
+located
+snowball,  locat
+lancaster,  loc
+morphy,  locate
+---------------------------
+invented
+snowball,  invent
+lancaster,  inv
+morphy,  invent
+---------------------------
+paper
+snowball,  paper
+lancaster,  pap
+morphy,  paper
+---------------------------
+clip
+snowball,  clip
+lancaster,  clip
+morphy,  clip
+---------------------------
+electric
+snowball,  electr
+lancaster,  elect
+morphy,  electric
+---------------------------
+leader
+snowball,  leader
+lancaster,  lead
+morphy,  leader
+---------------------------
+minister
+snowball,  minist
+lancaster,  min
+morphy,  minister
+---------------------------
+killed
+snowball,  kill
+lancaster,  kil
+morphy,  kill
+---------------------------
+won
+snowball,  won
+lancaster,  won
+morphy,  won
+---------------------------
+teaching
+snowball,  teach
+lancaster,  teach
+morphy,  teaching
+---------------------------
+tie
+snowball,  tie
+lancaster,  tie
+morphy,  tie
+---------------------------
+laces
+snowball,  lace
+lancaster,  lac
+morphy,  lace
+---------------------------
+buried
+snowball,  buri
+lancaster,  bury
+morphy,  bury
+---------------------------
+lobsters
+snowball,  lobster
+lancaster,  lobst
+morphy,  lobster
+---------------------------
+born
+snowball,  born
+lancaster,  born
+morphy,  born
+---------------------------
+wrote
+snowball,  wrote
+lancaster,  wrot
+morphy,  write
+---------------------------
+aborigines
+snowball,  aborigin
+lancaster,  aborigin
+morphy,  aborigine
+---------------------------
+Ayer's
+snowball,  ayer
+lancaster,  ayer's
+morphy,  None
+---------------------------
+completed
+snowball,  complet
+lancaster,  complet
+morphy,  complete
+---------------------------
+found
+snowball,  found
+lancaster,  found
+morphy,  found
+---------------------------
+religion
+snowball,  religion
+lancaster,  relig
+morphy,  religion
+---------------------------
+religious
+snowball,  religi
+lancaster,  religy
+morphy,  religious
+---------------------------
+founded
+snowball,  found
+lancaster,  found
+morphy,  found
+---------------------------
+richest
+snowball,  richest
+lancaster,  richest
+morphy,  rich
+---------------------------
+established
+snowball,  establish
+lancaster,  est
+morphy,  establish
+---------------------------
+built
+snowball,  built
+lancaster,  built
+morphy,  build
+---------------------------
+corpus
+snowball,  corpus
+lancaster,  corp
+morphy,  corpus
+---------------------------
+Boxing
+snowball,  box
+lancaster,  box
+morphy,  None
+---------------------------
+eruption
+snowball,  erupt
+lancaster,  erupt
+morphy,  eruption
+---------------------------
